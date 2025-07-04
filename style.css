@@ -1,0 +1,21 @@
+* {
+    font-family: "digital";
+}
+
+@font-face{
+    font-family: digital;
+    src: url(/fonts/digital-7.ttf);
+}
+
+html body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(26, 25, 25);
+}
+
+h1 {
+    color: rgb(59, 207, 59);
+    font-size:  40vh;
+    font-weight: 600;
+}
